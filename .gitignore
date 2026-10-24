@@ -1,0 +1,29 @@
+# Public repository allowlist. Existing BRAIN research stays local.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/concepts/
+!/research/
+!/experiments/
+!/mistakes/
+!/learning-log/
+
+# Keep credentials, private notes, datasets and generated files out everywhere.
+**/.env*
+**/*secret*
+**/*credential*
+**/private/
+**/.private/
+**/__pycache__/
+**/.venv/
+**/.DS_Store
+*.pyc
+*.docx
+*.pdf
+*.csv
+*.json
+*.xlsx
+*.png
+*.jpg
+*.ipynb
