@@ -14,6 +14,10 @@ The focus is understanding concepts, practicing careful experiments, and recordi
 | [mistakes](mistakes/README.md) | Specific mistakes, corrections and prevention habits |
 | [learning-log](learning-log/README.md) | A chronological record of work actually completed |
 
+## Research workflow
+
+Read the [evidence-led research guardrails](research/evidence-led-research-guardrails.md) for the distinction between eligibility, robust evidence and portfolio contribution.
+
 ## First experiment
 
 Using Python 3, from the repository root:

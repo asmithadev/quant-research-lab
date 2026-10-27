@@ -26,3 +26,8 @@ Maintain a beginner-friendly public Markdown learning journal. Use Markdown for 
 ## Validation
 
 Run `python3 -m unittest discover -s experiments/tests -v` when Python exercises change. Check Markdown links and review `git diff --cached` before publishing.
+
+
+## Private alpha research guardrails
+
+Before private BRAIN research, read `PRIVATE_GOLD_RESEARCH_PLAN.md` and `PRIVATE_BRAIN_GUARDRAILS.json` when present. Keep them and all account-specific research private and ignored. Run `python3 private_gold_research_audit.py --as-of YYYY-MM-DD` with the actual client review date before presenting a recorded candidate as ready. This audit checks saved evidence; it does not replace fresh platform checks. Never count eligibility checked against a different submitted-history snapshot. Keep platform eligibility separate from research quality, family distinctness and unknown portfolio effects. Final prize-based Challenge submission remains a user action. Do not auto-submit, auto-commit or auto-push.
